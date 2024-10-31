@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RSS Stream 0.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-04-03 12:52+0100\n"
+"PO-Revision-Date: 2009-08-06 20:35+0300\n"
+"Last-Translator: Fat Cow <zhr@tut.by>\n"
+"Language-Team: x-demon <x-demon@x-demon.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../rss-stream.php:461
+msgid "RSS Stream Options"
+msgstr "Налады RSS Stream"
+
+#: ../rss-stream.php:463
+#: ../rss-stream.php:733
+msgid "Update RSS Stream Options"
+msgstr "Захаваць налады RSS Stream"
+
+#: ../rss-stream.php:466
+msgid "General Options"
+msgstr "Галоўныя налады"
+
+#: ../rss-stream.php:469
+msgid "Date format"
+msgstr "Фармат часу"
+
+#: ../rss-stream.php:475
+msgid "Hour format"
+msgstr "Фармат гадзіны"
+
+#: ../rss-stream.php:481
+msgid "Timezone"
+msgstr "Часавая зона"
+
+#: ../rss-stream.php:513
+msgid "Force UTF8 encoding"
+msgstr ""
+
+#: ../rss-stream.php:525
+#: ../rss-stream.php:544
+#: ../rss-stream.php:563
+#: ../rss-stream.php:586
+#: ../rss-stream.php:638
+msgid "User"
+msgstr "Карыстач"
+
+#: ../rss-stream.php:529
+#: ../rss-stream.php:548
+#: ../rss-stream.php:642
+msgid "Discover hyperlinks"
+msgstr "Парсіць гіперспасылкі"
+
+#: ../rss-stream.php:532
+#: ../rss-stream.php:551
+msgid "Discover @replies"
+msgstr "Парсіць адказы"
+
+#: ../rss-stream.php:567
+msgid "Show tags"
+msgstr "Паказваць тэгі"
+
+#: ../rss-stream.php:570
+msgid "Filter tag(s)"
+msgstr "Фільтраваць тэг (і)"
+
+#: ../rss-stream.php:574
+msgid "Show bookmark's descriptions"
+msgstr "Паказваць апісанне ўкладак"
+
+#: ../rss-stream.php:599
+msgid "ID"
+msgstr "ID"
+
+#: ../rss-stream.php:600
+msgid "Use <a href=\"http://idgettr.com\">idGettr</a> to find your id."
+msgstr "Выкарыстоўвайце <a href=\"http://idgettr.com\">idGettr</a> для атрымання ID"
+
+#: ../rss-stream.php:612
+#: ../rss-stream.php:625
+#: ../rss-stream.php:689
+#: ../rss-stream.php:724
+msgid "Feed"
+msgstr "Фід"
+
+#: ../rss-stream.php:645
+msgid "Show replies"
+msgstr "Паказваць адказы"
+
+#: ../rss-stream.php:649
+msgid "Time diff"
+msgstr "Розніца часу"
+
+#: ../rss-stream.php:674
+msgid "Hours"
+msgstr "Гадзіны"
+
+#: ../rss-stream.php:693
+msgid "Show post autor"
+msgstr "Паказваць аўтара запісу"
+
+#: ../rss-stream.php:705
+msgid "How many generic feeds?"
+msgstr "Колькасць карыстацкіх фідаў"
+
+#: ../rss-stream.php:708
+msgid "None"
+msgstr "Не"
+

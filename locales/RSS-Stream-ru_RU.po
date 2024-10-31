@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RSS Stream 0.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-04-03 12:52+0100\n"
+"PO-Revision-Date: 2008-04-03 12:52+0100\n"
+"Last-Translator: Ricardo González <rickgc@gmail.com>\n"
+"Language-Team: x-demon <x-demon@x-demon.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../rss-stream.php:461
+msgid "RSS Stream Options"
+msgstr "RSS Stream Options"
+
+#: ../rss-stream.php:463
+#: ../rss-stream.php:733
+msgid "Update RSS Stream Options"
+msgstr "Сохранить опции RSS Stream"
+
+#: ../rss-stream.php:466
+msgid "General Options"
+msgstr "Главные опции"
+
+#: ../rss-stream.php:469
+msgid "Date format"
+msgstr "Формат времени"
+
+#: ../rss-stream.php:475
+msgid "Hour format"
+msgstr "Формат часа"
+
+#: ../rss-stream.php:481
+msgid "Timezone"
+msgstr "Временная зона"
+
+#: ../rss-stream.php:513
+msgid "Force UTF8 encoding"
+msgstr ""
+
+#: ../rss-stream.php:525
+#: ../rss-stream.php:544
+#: ../rss-stream.php:563
+#: ../rss-stream.php:586
+#: ../rss-stream.php:638
+msgid "User"
+msgstr "Пользователь"
+
+#: ../rss-stream.php:529
+#: ../rss-stream.php:548
+#: ../rss-stream.php:642
+msgid "Discover hyperlinks"
+msgstr "Парсить гиперссылки"
+
+#: ../rss-stream.php:532
+#: ../rss-stream.php:551
+msgid "Discover @replies"
+msgstr "Парсить ответы"
+
+#: ../rss-stream.php:567
+msgid "Show tags"
+msgstr "Показывать теги"
+
+#: ../rss-stream.php:570
+msgid "Filter tag(s)"
+msgstr "Фильтровать тег(и)"
+
+#: ../rss-stream.php:574
+msgid "Show bookmark's descriptions"
+msgstr "Показывать описание закладок"
+
+#: ../rss-stream.php:599
+msgid "ID"
+msgstr "ID"
+
+#: ../rss-stream.php:600
+msgid "Use <a href=\"http://idgettr.com\">idGettr</a> to find your id."
+msgstr "Используйте <a href=\"http://idgettr.com\">idGettr</a> для получения ID"
+
+#: ../rss-stream.php:612
+#: ../rss-stream.php:625
+#: ../rss-stream.php:689
+#: ../rss-stream.php:724
+msgid "Feed"
+msgstr "Фид"
+
+#: ../rss-stream.php:645
+msgid "Show replies"
+msgstr "Показывать ответы"
+
+#: ../rss-stream.php:649
+msgid "Time diff"
+msgstr "Различие времени"
+
+#: ../rss-stream.php:674
+msgid "Hours"
+msgstr "Часы"
+
+#: ../rss-stream.php:693
+msgid "Show post autor"
+msgstr "Показывать автора записи"
+
+#: ../rss-stream.php:705
+msgid "How many generic feeds?"
+msgstr "Количество пользовательских фидов"
+
+#: ../rss-stream.php:708
+msgid "None"
+msgstr "Нет"
+

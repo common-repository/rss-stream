@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-04-03 12:52+0100\n"
+"PO-Revision-Date: 2008-04-03 12:52+0100\n"
+"Last-Translator: Ricardo González <rickgc@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../rss-stream.php:461
+msgid "RSS Stream Options"
+msgstr "Opzioni RSS Stream"
+
+#: ../rss-stream.php:463
+#: ../rss-stream.php:733
+msgid "Update RSS Stream Options"
+msgstr "Aggiorna Opzioni RSS Stream"
+
+#: ../rss-stream.php:466
+msgid "General Options"
+msgstr "Opzioni Generali"
+
+#: ../rss-stream.php:469
+msgid "Date format"
+msgstr "Formato Data"
+
+#: ../rss-stream.php:475
+msgid "Hour format"
+msgstr "Formato Ora"
+
+#: ../rss-stream.php:481
+msgid "Timezone"
+msgstr "Fuso Orario"
+
+#: ../rss-stream.php:513
+msgid "Force UTF8 encoding"
+msgstr ""
+
+#: ../rss-stream.php:525
+#: ../rss-stream.php:544
+#: ../rss-stream.php:563
+#: ../rss-stream.php:586
+#: ../rss-stream.php:638
+msgid "User"
+msgstr "Utente"
+
+#: ../rss-stream.php:529
+#: ../rss-stream.php:548
+#: ../rss-stream.php:642
+msgid "Discover hyperlinks"
+msgstr "Scopri Hyperlink"
+
+#: ../rss-stream.php:532
+#: ../rss-stream.php:551
+msgid "Discover @replies"
+msgstr "Scopri @reply"
+
+#: ../rss-stream.php:567
+msgid "Show tags"
+msgstr "Mostra Tag"
+
+#: ../rss-stream.php:570
+msgid "Filter tag(s)"
+msgstr "Filtra Tag"
+
+#: ../rss-stream.php:574
+msgid "Show bookmark's descriptions"
+msgstr "Mostra Descrizioni Segnalibri"
+
+#: ../rss-stream.php:599
+msgid "ID"
+msgstr "ID"
+
+#: ../rss-stream.php:600
+msgid "Use <a href=\"http://idgettr.com\">idGettr</a> to find your id."
+msgstr "Usa <a href=\"http://idgettr.com\">idGettr</a> per trovare il tuo ID."
+
+#: ../rss-stream.php:612
+#: ../rss-stream.php:625
+#: ../rss-stream.php:689
+#: ../rss-stream.php:724
+msgid "Feed"
+msgstr "Feed"
+
+#: ../rss-stream.php:645
+msgid "Show replies"
+msgstr "Mostra Risposte"
+
+#: ../rss-stream.php:649
+msgid "Time diff"
+msgstr "Differenza Oraria"
+
+#: ../rss-stream.php:674
+msgid "Hours"
+msgstr "Ore"
+
+#: ../rss-stream.php:693
+msgid "Show post autor"
+msgstr "Mostra Autore Post"
+
+#: ../rss-stream.php:705
+msgid "How many generic feeds?"
+msgstr "Quanti feed generici?"
+
+#: ../rss-stream.php:708
+msgid "None"
+msgstr "Nessuno"
+

@@ -1,0 +1,151 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-06-09 15:52+0100\n"
+"PO-Revision-Date: 2008-06-09 15:53+0100\n"
+"Last-Translator: Ricardo González <rickgc@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: rss-stream.php:493
+msgid "RSS Stream Options"
+msgstr "Opciones RSS Stream"
+
+#: rss-stream.php:495
+#: rss-stream.php:766
+msgid "Update RSS Stream Options"
+msgstr "Actualizar opciones RSS Stream"
+
+#: rss-stream.php:498
+msgid "General Options"
+msgstr "Opciones Generales"
+
+#: rss-stream.php:501
+msgid "Date format"
+msgstr "Formato de fecha"
+
+#: rss-stream.php:507
+msgid "Hour format"
+msgstr "Formato de Hora"
+
+#: rss-stream.php:513
+msgid "Timezone"
+msgstr "Zona horaria"
+
+#: rss-stream.php:545
+msgid "Time lapse:"
+msgstr "Periodo de tiempo:"
+
+#: rss-stream.php:548
+msgid "Today"
+msgstr "Hoy"
+
+#: rss-stream.php:564
+msgid "Force UTF8 encoding"
+msgstr "Forzar codificación UTF-8"
+
+#: rss-stream.php:576
+#: rss-stream.php:587
+#: rss-stream.php:603
+#: rss-stream.php:619
+#: rss-stream.php:639
+#: rss-stream.php:679
+msgid "User"
+msgstr "Usuario"
+
+#: rss-stream.php:591
+#: rss-stream.php:607
+#: rss-stream.php:683
+msgid "Discover hyperlinks"
+msgstr "Detectar enlaces"
+
+#: rss-stream.php:594
+#: rss-stream.php:610
+msgid "Discover @replies"
+msgstr "Detectar @respuestas"
+
+#: rss-stream.php:623
+msgid "Show tags"
+msgstr "Mostrar etiquetas"
+
+#: rss-stream.php:626
+msgid "Filter tag(s)"
+msgstr "Etiqueta(s) de filtrado"
+
+#: rss-stream.php:630
+msgid "Show bookmark's descriptions"
+msgstr "Mostrar la descripción del favorito"
+
+#: rss-stream.php:649
+msgid "ID"
+msgstr "ID"
+
+#: rss-stream.php:650
+msgid "Use <a href=\"http://idgettr.com\">idGettr</a> to find your id."
+msgstr "Use <a href=\"http://idgettr.com\">idGettr</a> para averiguar su ID."
+
+#: rss-stream.php:659
+#: rss-stream.php:669
+#: rss-stream.php:727
+#: rss-stream.php:759
+msgid "Feed"
+msgstr "Feed"
+
+#: rss-stream.php:686
+msgid "Show replies"
+msgstr "Mostrar respuestas"
+
+#: rss-stream.php:690
+msgid "Time diff"
+msgstr "Diferencia horaria"
+
+#: rss-stream.php:715
+msgid "Hours"
+msgstr "Horas"
+
+#: rss-stream.php:731
+msgid "Show post autor"
+msgstr "Mostrar el autor del post"
+
+#: rss-stream.php:740
+msgid "How many generic feeds?"
+msgstr "¿Cuantos feeds genéricos?"
+
+#: rss-stream.php:743
+msgid "None"
+msgstr "Ninguno"
+
+#~ msgid "Twitter Options"
+#~ msgstr "Opciones de Twitter"
+#~ msgid "Twitter user"
+#~ msgstr "Usuario de Twitter"
+#~ msgid "del.icio.us Options"
+#~ msgstr "Opciones de del.icio.us"
+#~ msgid "del.icio.us user"
+#~ msgstr "Usuarios de del.icio.us"
+#~ msgid "Last.fm Options"
+#~ msgstr "Opciones de Last.fm"
+#~ msgid "Last.fm user"
+#~ msgstr "Usuario de Last.fm"
+#~ msgid "flickr Options"
+#~ msgstr "Opciones de flickr"
+#~ msgid "flickr ID"
+#~ msgstr "ID de flickr"
+#~ msgid "Facebook Options"
+#~ msgstr "Opciones de Facebook"
+#~ msgid "Facebook feed"
+#~ msgstr "Feed de Facebook"
+#~ msgid "Pownce Options"
+#~ msgstr "Opciones de Pownce"
+#~ msgid "Pownce user"
+#~ msgstr "Usuario de Pownce"
+
